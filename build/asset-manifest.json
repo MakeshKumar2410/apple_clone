@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b8b6c865.css",
+    "main.js": "/static/js/main.071fd512.js",
+    "static/media/phone.png": "/static/media/phone.b150f15a394edc7c4a4c.png",
+    "static/media/mac.png": "/static/media/mac.488699a791e448f82b0f.png",
+    "static/media/17.jpg": "/static/media/17.1790a64ae79f24fd35a4.jpg",
+    "static/media/19.jpg": "/static/media/19.5fe0800d8baee9d4e8ab.jpg",
+    "static/media/ipad.png": "/static/media/ipad.199308c320a5fc57539b.png",
+    "static/media/watch.png": "/static/media/watch.1a1f81c301add175b7cb.png",
+    "static/media/18.jpg": "/static/media/18.e9e07e36ca34626de37f.jpg",
+    "static/media/airpods.png": "/static/media/airpods.5a755ad554579e202aa0.png",
+    "static/media/airtag.png": "/static/media/airtag.cce2d33799f60687ecde.png",
+    "static/media/a2.jpg": "/static/media/a2.f6bae129c4056f3e8de6.jpg",
+    "static/media/a1.jpg": "/static/media/a1.284e64e8f5110519d8a9.jpg",
+    "static/media/a3.jpg": "/static/media/a3.98da2aad2ead14e34702.jpg",
+    "static/media/a4.jpg": "/static/media/a4.97e2f53306baf0f41ce4.jpg",
+    "index.html": "/index.html",
+    "main.b8b6c865.css.map": "/static/css/main.b8b6c865.css.map",
+    "main.071fd512.js.map": "/static/js/main.071fd512.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8b6c865.css",
+    "static/js/main.071fd512.js"
+  ]
+}
