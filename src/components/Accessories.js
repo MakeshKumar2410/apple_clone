@@ -10,19 +10,19 @@ function Accessories()
             <h2>Categories Section</h2>
         <div className="accessories__containter">
             <div className="acc__container">
-                <img src = {powerbeat}></img>
+                <img src = {powerbeat} alt="powerbeat"></img>
             </div>
 
              <div className="acc__container">
-                <img src = {speaker}></img>
+                <img src = {speaker} alt="speaker"></img>
             </div>
 
              <div className="acc__container">
-                <img src = {boom}></img>
+                <img src = {boom} alt="boom"></img>
             </div>
 
              <div className="acc__container">
-                <img src = {buds}></img>
+                <img src = {buds} alt="buds"></img>
             </div>
         </div>
         </div>
